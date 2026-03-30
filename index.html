@@ -70,6 +70,31 @@
             color: var(--accent);
         }
 
+        .nav-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+        }
+
+        .dark-side-link {
+            display: inline-block;
+            background: linear-gradient(135deg, #ff3333 0%, #cc0000 100%);
+            color: var(--white);
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .dark-side-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(255, 51, 51, 0.4);
+        }
+
         nav ul {
             display: flex;
             list-style: none;
@@ -674,16 +699,19 @@
     <header>
         <div class="header-content">
             <a href="#" class="logo">Robert Marc <span>Lehmann</span></a>
-            <nav>
-                <ul>
-                    <li><a href="#about">Über mich</a></li>
-                    <li><a href="#timeline">Chronologie</a></li>
-                    <li><a href="#awards">Auszeichnungen</a></li>
-                    <li><a href="#books">Bücher</a></li>
-                    <li><a href="#social">Statistiken</a></li>
-                    <li><a href="#contact">Kontakt</a></li>
-                </ul>
-            </nav>
+            <div class="nav-wrapper">
+                <nav>
+                    <ul>
+                        <li><a href="#about">Über mich</a></li>
+                        <li><a href="#timeline">Chronologie</a></li>
+                        <li><a href="#awards">Auszeichnungen</a></li>
+                        <li><a href="#books">Bücher</a></li>
+                        <li><a href="#social">Statistiken</a></li>
+                        <li><a href="#contact">Kontakt</a></li>
+                    </ul>
+                </nav>
+                <a href="gru.html" class="dark-side-link" target="_blank">⚠ THE DARK SIDE</a>
+            </div>
         </div>
     </header>
 
@@ -1010,7 +1038,7 @@
             </div>
             <div class="controversy-grid">
                 <div class="controversy-card">
-                    <h4><a href="https://zoos.media/medien-echo/robert-marc-lehmann-leiter-aquarium-europa-groesstes/" target="_blank" style="color: var(--accent); text-decoration: none;">Ozeaneum Stralsund</a></h4>
+                    <h4><a href="https://zoos.media/medien-echo/robert-marc-lehmann-leiter-aquarium-europa-groesstes/" target="_blank" style="color: var(--accent); text-decoration: none;"></a>Ozeaneum Stralsund</a></h4>
                     <p>Diskrepanz zwischen eigenen Angaben (Abteilungsleiter, viele Weltreisen) und offizieller Stellungnahme des Ozeaneums (Teamleiter, nur 4 Reisen nach Skandinavien).</p>
                 </div>
                 <div class="controversy-card">
