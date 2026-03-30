@@ -282,7 +282,7 @@ Lehmann arbeitet mit folgenden Organisationen zusammen:
 | 2018 | "Mensch des Jahres" | **GEWONNEN**: Tauchen Magazin - "Mensch des Jahres" Award (über 100.000 Leser stimmten ab) | Wikipedia, Sportmarkt.info |
 | 2019 | Mission Erde e.V. | Gründung des gemeinnützigen Vereins "Mission Erde e.V." | Wikipedia |
 | 2020 | Sylt | Ausstellung "Abenteuer extrem" auf Sylt (Nord-Ostsee Sparkasse) | Holger Ruedel |
-| 2020 | VOX | Als "Natur-Botschafter" für VOX aktiv (seit Herbst 2020) | Wikipedia |
+| 2020 | VOX | Als "Natur-Botschafter" für VOX aktiv (seit Herbst 2020). **VERIFIZIERT**: Erstausstrahlung 12.09.2020 VOX "Dem Fuchshai auf der Spur" um 22:15 Uhr (fernsehserien.de, ebuilderssource.net) | Wikipedia, fernsehserien.de, TV Wunschliste (14.06.2021) |
 | 2020 | Erste TV-Dokus | "Robert Marc Lehmann: Abenteuer extrem" (VOX) | Wikipedia |
 
 ## YouTube-Ära & Mission Erde (2021-2024)
@@ -290,7 +290,7 @@ Lehmann arbeitet mit folgenden Organisationen zusammen:
 | Jahr | Ereignis | Details | Quelle |
 |------|----------|---------|--------|
 | 2021 | Buchveröffentlichung | "Mission Erde – Die Welt ist es wert, um sie zu kämpfen" (Verlag Ludwig, München) | Wikipedia |
-| Mai 2021 | YouTube Start | Start des YouTube-Kanals "Robert Marc Lehmann – Mission Erde" | Wikipedia |
+| Mai 2021 | YouTube Start | **VERIFIZIERT**: Start des YouTube-Kanals "Robert Marc Lehmann – Mission Erde" am 18. Mai 2021 (youtubers.me, Wikipedia) | Wikipedia, youtubers.me |
 | 2021 | GDT Preis | 2. Platz Sonderkategorie "We are family" - GDT Naturfotograf des Jahres | Wikipedia, GDT |
 | 2022 | YouTube Erfolg | Platz 4 bei Abo-Zugewinnen in Deutschland | Wikipedia |
 | 2022 | Buchveröffentlichung | "Mission Erde – Meer als nur ein Bildband" (Mission Erde Media, Köln) | Wikipedia |
