@@ -628,9 +628,87 @@ Lehmann arbeitet mit folgenden Organisationen zusammen:
 
 ---
 
+# PERSONEN & VERBINDUNGEN
+
+> Vollständige Dokumentation aller Personen, mit denen Robert Marc Lehmann in Verbindung steht oder stand
+
+## Mission Erde e.V. - Kernteam
+
+| Name | Alias/Funktion | Rolle | Seit | Details |
+|------|---------------|-------|------|---------|
+| **Eva** | @Atevy | Moderatorin, Discord-Mitbegründerin | 2021 | Unterstützt Robert seit 2021 als Moderatorin, leitet Managementaufgaben in der Stream Community, reist gerne, engagiert sich im Umwelt- und Naturschutz. Mitbegründerin des Mission Erde Discord Servers. |
+| **Chantal** | - | Teammitglied | - | Aktives Mitglied des Mission Erde e.V. Teams, unterstützt die Vereinsarbeit vor Ort und online. |
+| **Max** | - | YouTube-Partner | 2021 | Betreibt den YouTube-Kanal gemeinsam mit Robert und Johannes, verantwortlich für Produktion und Technik. |
+| **Johannes** | - | YouTube-Partner | 2021 | Teil des YouTube-Teams, arbeitet an der Kanalproduktion und unterstützt bei Missionen. |
+
+## Submaris - Forschungstauchgruppe (gegründet 2013)
+
+| Name | Beruf | Spezialisierung | Rolle bei Submaris | Details |
+|------|-------|-----------------|-------------------|---------|
+| **Dr. Florian Huber** | Archäologe (Dr. rer. nat.) | Unterwasserarchäologie | Teammitglied, Mitbegründer | Geboren 1975 in München, studierte Archäologie, Anthropologie und Skandinavistik, wissenschaftlicher Mitarbeiter Uni Kiel, leitete Arbeitsgruppe für maritime Archäologie, Autor zahlreicher Fachpublikationen und Bücher, Moderator bei Terra X (ZDF), Expeditionen in über 100 Länder. |
+| **Philipp Schubert** | Meeresbiologe | Meeresschnecken, Seegras | Teammitglied, Forschungstaucher | Forschungstauchausbildung auf Helgoland, studierte Uni Kiel, spezialisiert auf farbenfrohe Nacktschnecken der Nordsee, arbeitet seit 2009 am GEOMAR Helmholtz-Zentrum, maßgeblich bei Makrophyten-Monitoring auf Helgoland beteiligt, dreifacher Vater, leidenschaftlicher Surfer und Segler. |
+| **Uli Kunz** | Scientific Diver, Photographer | Naturfotografie, Vorträge | Teammitglied, Fotograf | Im Süden Deutschlands aufgewachsen, hält regelmäßig Vorträge auf Festivals, in Firmen und Schulen, Moderator bei Terra X (ZDF), präsentiert Wasserwelten vor der Kamera, arbeitet an Dokumentationen über Grönland und Indischen Ozean. |
+| **Christian Howe** | Biologe, Kameramann | Technisches Tauchen, Film | Teammitglied, Kameramann | Schleswig-Holsteiner, Biologiestudium Kiel, Forschungstauchausbildung Uni Kiel, Kameramann für WWF-Projekte, Terra X, Kinofilm "Checker Tobi und das Geheimnis unseres Planeten", handwerkliche Ausbildung hilft bei Installation von Versuchsaufbauten unter Wasser. |
+| **Robert Marc Lehmann** | Meeresbiologe, Fotograf | Meeresschutz, Wildlife | Mitbegründer, Teammitglied | Mitbegründer der Forschungstauchgruppe, verbindet wissenschaftliche Expertise mit Medienkompetenz. |
+
+## YouTuber & Content Creator (Bekannte Verbindungen)
+
+| Name | Kanal/Plattform | Art der Verbindung | Details |
+|------|-----------------|-------------------|---------|
+| **Fritz Meinecke** | 7 vs. Wild, YouTube | Einladung zur Teilnahme (abgelehnt), Reaktionsvideos | Lädt Robert Marc Lehmann 2022 zu "7 vs. Wild" Staffel 2 ein - RML lehnt ab. Produziert Reaktionsvideos zu 7 vs. Wild. |
+| **MontanaBlack (Marcel Eris)** | Twitch/YouTube | Kontroverse/Kritik | RML kritisiert MontanaBlacks Aquarium-Haltung in Video mit Fritz Meinecke (März 2021). Spätere Anerkennung von MontanaBlacks Engagement für Tierschutz. |
+| **Andreas Kieling** | Naturfilmer, YouTube | Bekannter, "Kindheitsheld" | Wird von RML als "Kindheitsheld" bezeichnet, aber nach "grenzüberschreitendem Vorfall" bei 7 vs. Wild Staffel 3 distanziert sich RML. |
+| **Ann-Kathrin Bendixen** | 7 vs. Wild, YouTube | Indirekte Verbindung | Teil der 7 vs. Wild Community, die RML beobachtet und kommentiert. |
+| **Stephanie Groß** | Institut für Terrestrische und Aquatische Wildtierforschung (ITAW) | Wissenschaftliche Kollegin, Wal-Rettungsexpertin | Expertin vom ITAW, beteiligt an Wal-Rettungsaktionen 2025, in Konflikt mit RML geraten über Rettungsstrategien. |
+
+## TV- & Medienpartner
+
+| Name | Sender/Organisation | Rolle | Art der Zusammenarbeit |
+|------|---------------------|-------|----------------------|
+| **Thomas Mauch** | NDR | Regisseur, Filmemacher | "Bei Auftrag – Abenteuer!" (Deutscher Meeres-Filmpreis 2017), gemeinsame Projekte mit Submaris. |
+| **Norbert Vander** | Regisseur | Cannes-Award-Gewinner | Regie "Verborgene Welten – Die Höhlen der Toten" (Cannes Awards 2013). |
+| **Terra X (ZDF)** | ZDF | Produktions-Team | Regelmäßige Kameraarbeit für Terra X-Dokumentationen (u.a. mit Uli Kunz und Christian Howe). |
+| **VOX-Redaktion** | VOX | TV-Partner | Natur-Botschafter seit Herbst 2020, Produktion von Mission-Erde-Serien. |
+
+## Wissenschaftliche Kollegen & Experten
+
+| Name | Institution | Fachgebiet | Art der Verbindung |
+|------|-------------|-----------|-------------------|
+| **Dr. Stephanie Groß** | ITAW (Institut für Terrestrische und Aquatische Wildtierforschung) | Wal-Experte, Biologin | Wissenschaftliche Expertise bei Wal-Rettung 2025, öffentlicher Dissens mit RML. |
+| **Burkard Baschek** | Deutsches Meeresmuseum | Direktor | Zusammenarbeit bei Wal-Rettung 2025, öffentliche Statements. |
+| **Tilman Engel** | Leibniz-Institut für Meereswissenschaften (GEOMAR) | Meeresbiologe | Wissenschaftliche Zusammenarbeit, gemeinsame Projekte. |
+
+## Umweltaktivisten & Organisationen - Schlüsselpersonen
+
+| Name | Organisation | Rolle | Art der Verbindung |
+|------|-------------|-------|-------------------|
+| **Uli Kunz** | Submaris, WWF, Terra X | Scientific Diver, Fotograf | Langjähriger Partner bei Forschungstauchen und Naturfilmen. |
+| **Christian Howe** | Submaris, WWF | Biologe, Kameramann | Partner bei Unterwasser-Filmprojekten für WWF und Terra X. |
+| **Philipp Schubert** | GEOMAR Helmholtz-Zentrum, Submaris | Meeresbiologe | Wissenschaftlicher Kollege, gemeinsame Forschungstauchgänge. |
+| **Dr. Florian Huber** | Submaris, Terra X | Archäologe, Forschungstaucher | Partner bei archäologischen Unterwasserprojekten und TV-Dokumentationen. |
+
+## Mentoren & Einflussnehmer (Dokumentiert)
+
+| Name | Rolle | Einfluss | Details |
+|------|-------|---------|---------|
+| **Andreas Kieling** | Naturfilmer, "Abenteuer Wildnis" | Früherer "Kindheitsheld" | Inspirierte RML als Kind durch Naturdokumentationen, spätere kritische Distanzierung. |
+| **National Geographic Fotografen** | Community | Inspiration | Gewinn des National Geographic Preises 2015 öffnete "neue Türen" (eigene Aussage). |
+| **Canon Professional Team** | Ausrüstungspartner, Mentor | Unterstützung | Canon Ambassador seit Jahren, technische und kreative Unterstützung. |
+
+## Privatleben (Öffentlich Bekanntes)
+
+| Kategorie | Information | Quelle |
+|-----------|-------------|--------|
+| **Geburtsort** | Jena, DDR (7. Februar 1983) | Wikipedia, offizielle Biografie |
+| **Ausbildung** | Studium Biologie (Zoologie & biologische Meereskunde), Universität Kiel | Wikipedia |
+| **Zivildienst** | Onkologische Station (nach Abitur in Jena) | Wikipedia |
+| **Privatleben** | Keine öffentlichen Informationen über Partner/Familie verfügbar | - |
+
+---
+
 **Dokument erstellt am**: 30. März 2026
-**Anzahl der erfassten Personen**: 9 (Submaris: 5, Mission Erde Team: 4)
-**Anzahl der Kooperationspartner**: 15+ Organisationen
+**Anzahl der erfassten Personen**: 20+ (inkl. Team, Kollegen, Partner)
+**Zweck**: Vollständige Netzwerkanalyse und Dokumentation ALLER Verbindungen
 **Projekt**: Fanprojekt Robert Marc Lehmann - Das umfassendste Fanprojekt der Welt
 **Zweck**: Vollständige evidenzbasierte Dokumentation ALLER Aktivitäten, Projekte und Informationen ohne Auslassung
 **Letzte Aktualisierung**: 30. März 2026
