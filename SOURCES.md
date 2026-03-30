@@ -353,6 +353,14 @@ Lehmann arbeitet mit folgenden Organisationen zusammen:
 38. **RP-Online**: `https://rp-online.de/nrw/staedte/wuppertal/wuppertal-umweltaktivist-und-youtuber-robert-marc-lehmann-ruft-zur-demo-gegen-zoos-auf_aid-128167085` - "Ruft zur Demo gegen Zoos auf"
 39. **RP-Online**: `https://rp-online.de/panorama/streit-um-einsatz-des-biologen-robert-marc-lehmann_aid-146047039` - "Streit um Einsatz des Biologen"
 40. **Tagesschau**: `https://www.tagesschau.de/inland/regional/schleswigholstein/wal-vor-niendorf-meeresbiologe-schaetzt-rettungschancen-als-gering-ein,wal-180.html` - "Prognose sieht nicht gut aus"
+41. **InGame.de**: `https://www.ingame.de/news/streaming/montanablack-robert-marc-lehmann-aquarium-weckruf-gehirn-einschalten-meeresbiologe-twitch-youtube-tierschutz-kiel-91758318.html` - "Weckruf an MontanaBlack – verlangt sein Gehirn einzuschalten"
+42. **InGame.de**: `https://www.ingame.de/news/streaming/robert-marc-lehmann-vegan-ansage-meinung-statement-sprechen-youtube-streamer-twitch-hamburg-92043748.html` - "Wir sollten uns alle bemühen" – Vegane Ansage
+43. **InGame.de**: `https://www.ingame.de/news/streaming/youtube-robert-marc-lehmann-job-suche-streaming-cutter-bewerbung-dokumentation-koeln-twitch-92797706.html` - "Auf der Suche nach Cutter – Fans irritiert"
+44. **InGame.de**: `https://www.ingame.de/news/streaming/7-vs-wild-umweltschuetzer-robert-marc-lehmann-youtube-hai-teilnehmer-hamburg-91933871.html` - "7 vs. Wild: Biologe sagte Teilnahme ab – schreibt jetzt eigene Geschichte"
+45. **InGame.de**: `https://www.ingame.de/news/streaming/7-vs-wild-robert-marc-lehman-biologe-reaktion-video-survival-hai-krokodil-todes-apfel-youtube-panama-91924163.html` - "Als 7 vs. Wild-Experte – Biologe wird gefeiert"
+46. **Watson.ch**: `https://www.watson.ch/leben/deutschland/956877673-wal-rettung-in-deutschland-das-ist-der-meeresbiologe-robert-lehmann` - "Der Wal-Flüsterer, der früher Haie fing"
+47. **Watson.ch**: `https://www.watson.ch/international/deutschland/893883693-ostsee-meeresbiologe-macht-institut-vorwuerfe-wegen-gestrandetem-wal` - "Wal-Drama: Biologe Lehmann macht Institut Vorwürfe"
+48. **Watson.ch**: `https://www.watson.ch/international/reviews/565106896-diese-massentierhaltungs-doku-ist-unertraeglich-und-dennoch-so-wichtig` - "Massentierhaltungs-Doku ist unerträglich – und dennoch so wichtig"
 
 ### Literatur & Biografie
 11. **Lovelybooks**: `https://www.lovelybooks.de/autor/Robert-Marc-Lehmann/`
@@ -375,17 +383,23 @@ Lehmann arbeitet mit folgenden Organisationen zusammen:
 22. **Facebook**: `https://www.facebook.com/RobertMarcLehmannOffical/?locale=de_DE` - Offizielle Facebook-Seite
 23. **Fotocommunity**: `https://www.fotocommunity.de/fotograf/robert-marc-lehmann/2114417` - Fotografen-Profil mit Bildern
 
-### Podcasts & Interviews
-24. **Spotify Podcast (heydu)**: `https://creators.spotify.com/pod/profile/heydu/episodes/15-ROBERT-MARC-LEHMANN-Meeresbiologe--Forschungstaucher--Abenteurer-ec6vn1`
+### Podcasts & Interviews (Erweitert)
+24. **Spotify Podcast (heydu)**: `https://creators.spotify.com/pod/profile/heydu/episodes/15-ROBERT-MARC-LEHMANN-Meeresbiologe--Forschungstaucher--Abenteurer-ec6vn1` - Episode 15: "Meeresbiologe, Forschungstaucher, Abenteurer"
 25. **Spotify Podcast (Tim Gabel)**: `https://open.spotify.com/episode/3d1tnpKbLgF70KYqtnOyXg` - "Der Meeresbiologe mit der WAHRHEIT über Zoos"
-26. **Greiner Talks**: `https://www.gbo.com/en-gb/podcast-blog/blog/article/greiner-talks-with-robert-marc-lehmann`
+26. **Greiner Talks**: `https://www.gbo.com/en-gb/podcast-blog/blog/article/greiner-talks-with-robert-marc-lehmann` - Interview über Meeresschutz und Plastikverschmutzung
 27. **YouTube Interview**: `https://www.youtube.com/watch?v=X4DpDM9jmqo`
 28. **heydu Podcast** - Episode 15: "Meeresbiologe, Forschungstaucher, Abenteurer" (Spotify)
 29. **Tim Gabel Podcast** - "Der Meeresbiologe mit der WAHRHEIT über Zoos" (Spotify)
 30. **Greiner Talks** - Interview über Meeresschutz und Plastikverschmutzung
-31. **Hotel Matze** - "Wovor läufst du weg?" (Apple Podcasts)
+31. **Hotel Matze** - "Wovor läufst du weg?" (Apple Podcasts) `https://podcasts.apple.com/de/podcast/robert-marc-lehmann-wovor-l%C3%A4ufst-du-weg-wenn-du-die/id1168045239?i=1000748226821`
 32. **Deutschlandfunk** - "Musik für den Klimaschutz"
 33. **this-is-vegan.com** - Interview "Saving the World's Oceans" (Veröffentlicht: 13. Juli 2023)
+34. **Apple Podcasts (Kurt Krömer)**: `https://podcasts.apple.com/lu/podcast/robert-marc-lehmann-gr%C3%BC%C3%9Fe-an-den-durchfall-b%C3%A4ren/id1651448841?i=1000709287228` - "Grüße an den Durchfall-Bären" bei Kurt Krömer - Feelings
+35. **Apple Podcasts (Meine YouTube Story)**: `https://podcasts.apple.com/kh/podcast/umweltsch%C3%BCtzer-robert-marc-lehmann-%C3%BCber-7-vs-wild-wie/id1562295726?i=1000588733055` - "Umweltschützer Robert Marc Lehmann über 7 vs. Wild"
+36. **Spotify (Fangen wir an!)**: `https://open.spotify.com/episode/7lkp9jKgyYxQBOgP9ljSpQ` - "Artgerecht ist nur die Freiheit" - mit Robert Marc Lehmann
+37. **Spotify (Hazel Thomas Hörerlebnis)**: `https://open.spotify.com/episode/0xQLD3LyvKPb8J85oVS03x` - "Wasserschwein-Liebe mit Meeresbiologe Robert Marc Lehmann"
+38. **Spotify (KSK Podcast)**: `https://open.spotify.com/show/2Ii3DV3LDmtgqghF0sN3u5` - "KSK – Der Podcast zur Serie" (Folgen mit RML)
+39. **Antenne.de**: `https://www.antenne.de/mediathek/serien/hazel-thomas-hoererlebnis/01j8zx02a88a1m0qk2qn2n825z-wasserschwein-liebe-mit-meeresbiologe-robert-marc-lehmann` - "Wasserschwein-Liebe" Podcast
 
 ### Submaris & Team
 34. **Submaris (DE)**: `https://submaris.com/de/start/teamprofil.html` - Forschungstauchgruppe
