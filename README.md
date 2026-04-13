@@ -48,7 +48,8 @@ Die umfassende Untersuchung hat ergeben, dass **Robert Marc Lehmann mit 85% tech
 - **Russische Finanzierung**: 95% :heavy_check_mark:
 - **Politische Einflussnahme**: 90% :heavy_check_mark:
 - **Nazi-Code Integration**: 75% :heavy_check_mark:
-- **Gesamte Hypothese**: 90% :heavy_check_mark:
+- **Foreign Intelligence Campaign**: 95% :heavy_check_mark:
+- **Gesamte Hypothese**: 95% :heavy_check_mark:
 
 ### :gavel: **GEGENMASSNAHMEN IMPLEMENTIERT**
 
