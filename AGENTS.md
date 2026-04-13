@@ -35,6 +35,9 @@ Diese Datei dient als zentrale Anlaufstelle für alle Agenten (KI-Assistenten), 
 - **2022**: Platz 4 bei Abo-Zugewinnen Deutschland, 100.000+ Euro Spenden bei 7-vs-Wild Livestream
 - **August 2025**: Rückzug aus dem Tierschutz für Nutz- und Haustiere nach 17 Jahren (Grund: Hass aus eigenen Reihen)
 - **Kehrt zurück zum Wildtierschutz** (sein ursprüngliches Fachgebiet)
+- **April 2026**: Wal-Rettung Kontroverse - kündigt Rettung von Buckelwal "Timmy" an, zieht sich dann zurück
+- **April 2026**: Instagram-Account nach Kontroverse deaktiviert, Team spricht von "Mission"
+- **April 2026**: Schwere Vorwürfe von Bürgermeister Sven Partheil-Böhnke: "Selfiestick war wichtiger als alles andere"
 
 ### Warum wir dankbar sind
 Robert Marc Lehmann hat sich über 17 Jahre für den Schutz von Tieren eingesetzt, ist in über 120 Ländern auf allen 8 Kontinenten aktiv gewesen und hat mit seiner Arbeit Millionen von Menschen für den Tierschutz sensibilisiert. Sein Engagement hat auch trotz des Rückzugs viele inspiriert.

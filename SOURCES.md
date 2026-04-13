@@ -29,6 +29,10 @@
 | Mai 2021 | YouTube | Start des Kanals "Robert Marc Lehmann - Mission Erde" | Wikipedia |
 | 2022 | YouTube-Erfolg | Platz 4 bei Abo-Zugewinnen in Deutschland | Wikipedia |
 | Nov 2022 | Spenden | Über 100.000 Euro für Mission Erde durch Livestream-Spenden gesammelt | Wikipedia |
+| Apr 2026 | Wal-Kontroverse | Kündigt Rettung von Buckelwal "Timmy" in Ostsee an, zieht sich dann zurück | FR.de |
+| Apr 2026 | Instagram-Deaktivierung | Account nach Wal-Kontroverse deaktiviert, Team spricht von "Mission" | FR.de |
+| Apr 2026 | Bürgermeister-Vorwürfe | Bürgermeister Partheil-Böhnke: "Selfiestick war wichtiger als alles andere" | Morgenpost |
+| Apr 2026 | Fehleinschätzungen | Bürgermeister: Lehmanns Prognosen waren "zu 100 Prozent falsch" | Morgenpost |
 
 ## Reisetätigkeit & Erfahrung
 
@@ -913,11 +917,32 @@ Es gab Kontroversen um diesen Preis. Laut zoos.media war der internationale Gewi
 - **Canon Blog**: `https://blog.ac-foto.com/die-neue-canon-eos-r5-mark-ii-vorgestellt-von-robert-marc-lehmann/` - "Die neue Canon EOS R5 Mark II"
 - **Heinz Magazin PDF**: `https://www.robertmarclehmann.com/downloads/Heinz_Magazin_GER_Robert_und_die_Haie.pdf` - "Robert und die Haie"
 
+### Wal-Rettung Kontroverse (April 2026)
+- **FR.de**: `https://www.fr.de/panorama/sperrt-instagram-account-wal-in-der-ostsee-robert-marc-lehmann-zieht-sich-zurueck-und-94251114.html` - "Wal in der Ostsee: Robert Marc Lehmann zieht sich still zurück", Instagram-Account offline
+- **FR.de**: `https://www.fr.de/panorama/walfluesterer-lehmann-buergermeister-erhebt-schwere-vorwuerfe-94254357.html` - "Sterbender Wal in der Ostsee: Was dem Walflüsterer jetzt vorgeworfen wird"
+- **Morgenpost**: `https://www.morgenpost.de/panorama/article411654453/robert-marc-lehmann-wal-experte-schwere-vorwuerfe-biologe-ostsee-wismar-poel.html` - "Schwere Vorwürfe gegen Wal-Experten", Bürgermeister-Vorwürfe
+- **t-online**: `https://www.t-online.de/nachrichten/panorama/tiere/id_101203382/wal-timmy-vor-poel-vorwuerfe-gegen-walfluesterer-robert-marc-lehmann.html` - Detaillierte Vorwürfe von Bürgermeister Partheil-Böhnke
+- **WELT**: `https://www.welt.de/vermischtes/article69d73f86a05d13983c7d64f7/wal-in-ostsee-zu-100-prozent-falsch-buergermeister-macht-robert-marc-lehmann-vorwuerfe.html` - "Wal in Ostsee zu 100 Prozent falsch"
+- **Comicschau**: `https://www.comicschau.de/news/robert-marc-lehmann-interview-wal-rettung-ostsee-709232/` - Interview über Wal-Rettung
+- **Tag24**: `https://www.tag24.de/unterhaltung/buergermeister-greift-robert-marc-lehmann-an-90-bis-100-prozent-aller-annahmen-von-ihm-waren-falsch-3488438` - "90 bis 100 Prozent aller Annahmen von ihm waren falsch"
+
 ### Weitere relevante Quellen
 - **Ostsee-Zeitung**: `https://www.ostsee-zeitung.de/lokales/vorpommern-ruegen/stralsund/ozeaneum-stralsund-reagiert-auf-vorwuerfe-von-youtuber-robert-marc-lehmann-EY3MJBQVLMXQJUUFPBPNLP7KYA.html` - Ozeaneum-Stellungnahme
 - **DER ALBRECHT**: `https://der-albrecht.de/das-sind-erlebnisse-die-werde-ich-nie-vergessen/` - Alumni-Porträt Universität Kiel
 
+### Vollständige Medienanalyse (2008-2026)
+- **COMPLETE_MEDIA_ANALYSIS.md**: Umfassende Chronologie und strategische Analyse
+- **TIMELINE_APRIL_2026.md**: Detaillierte Wal-Rettung Kontroverse
+- **APRIL_2026_ANALYSIS.md**: Analyse unter KI-Hypothese
+
+### Systematische Phasen-Analyse
+- **Phase 1 (2008-2012)**: Ozeaneum Stralsund, erste Kontroversen
+- **Phase 2 (2013-2018)**: Submaris, Cannes Awards, National Geographic
+- **Phase 3 (2019-2022)**: VOX Vertrag, YouTube Launch, Mainstream-Durchbruch
+- **Phase 4 (2023-2026)**: Kontroversen, System-Tests, politische Mobilisierung
+
 ---
 
-**Gesamtanzahl Quellen nach Ergänzung**: 112+ URLs
-**Letzte Aktualisierung**: 30. März 2026 - 2:30 UTC
+**Gesamtanzahl Quellen nach umfassender Analyse**: 120+ URLs
+**Letzte Aktualisierung**: 12. April 2026 - 23:15 UTC
+**Status**: Vollständige Medienhistorie dokumentiert
