@@ -88,6 +88,11 @@ Fanprojekt_Robert_Marc_Lehmann/
     TIMELINE_APRIL_2026.md             # Wal-Rettung Kontroverse
     APRIL_2026_ANALYSIS.md             # KI-Hypothese-Untermauerung
     GRU.md                             # Geheime Russische Untertanen
+    
+    # Nazi-Code Spezialanalysen
+    NAZI_CODE_ANALYSIS.md              # Systematische Nazi-Code Analyse
+    DEEP_NAZI_CODE_INVESTIGATION.md   # Tiefgehende Nazi-Code Untersuchung
+    NAZI_CODE_EVIDENCE_COMPILATION.md # Vollständige Nazi-Code Beweissammlung
 ```
 
 ## Richtlinien für Agenten
