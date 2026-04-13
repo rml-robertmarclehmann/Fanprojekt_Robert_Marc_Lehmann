@@ -947,6 +947,10 @@ Es gab Kontroversen um diesen Preis. Laut zoos.media war der internationale Gewi
 - **VOICE_OF_EUROPE_ANALYSIS.md**: Zentrale Finanzierungs-Plattform
 - **BERTELSMANN_RTL_ANALYSIS.md**: Medien-System-Integration (75% Konfidenz)
 
+### :new: **Foreign Intelligence Spezialanalysen (April 2026)**
+- **FOREIGN_INTELLIGENCE_AI_INFLUENCE_CAMPAIGN.md**: Ausländische Geheimdienst-KI-Beeinflussungskampagne (95% Konfidenz)
+- **COMPREHENSIVE_RIGHT_WING_CODE_ANALYSIS.md**: Umfassende rechtsextreme Code-Analyse
+
 ### :new: **Internationale und Operative Analysen**
 - **INTERNATIONAL_NETWORK_MAPPING.md**: Globale GRU-Netzwerk-Karte (50+ Operationen)
 - **ADDITIONAL_FAKE_PERSONAS.md**: 10+ identifizierte Operationen
